@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
+.vscode/
+.idea/
+src/api/config.local.php

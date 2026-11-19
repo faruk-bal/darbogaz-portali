@@ -1,0 +1,285 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" xmlns:c2pa="http://c2pa.org/manifest"><title>02 Makine Detayı</title><g id="Arka plan">
+<rect x="0" y="0" width="1440" height="900" rx="0" fill="#F1F5F9"/>
+</g>
+<g id="Kenar menü">
+<rect x="0" y="0" width="240" height="900" rx="0" fill="#0F172A"/>
+<g id="Logo">
+<rect x="24" y="24" width="36" height="36" rx="9" fill="#2563EB"/>
+<polyline points="31.0,50.0 38.0,44.0 44.0,48.0 53.0,34.0" fill="none" stroke="#fff" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="72" y="40" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">Darboğaz</text>
+<text x="72" y="57" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#94A3B8">İzleme Portalı</text>
+</g>
+<text x="24" y="122" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#64748B">İZLEME</text>
+<g id="Menü / Canlı Hat">
+<circle cx="36" cy="153" r="4" fill="#475569"/>
+<text x="52" y="158" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#CBD5E1">Canlı Hat</text>
+</g>
+<g id="Menü / Makine Detayı">
+<rect x="12" y="174" width="216" height="38" rx="8" fill="#1E293B"/>
+<rect x="12" y="183" width="3" height="20" rx="1.5" fill="#2563EB"/>
+<circle cx="36" cy="193" r="4" fill="#2563EB"/>
+<text x="52" y="198" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#fff">Makine Detayı</text>
+</g>
+<g id="Menü / Uyarılar">
+<circle cx="36" cy="233" r="4" fill="#475569"/>
+<text x="52" y="238" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#CBD5E1">Uyarılar</text>
+<rect x="194" y="224" width="22" height="18" rx="9" fill="#DC2626"/>
+<text x="205" y="237" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+</g>
+<text x="24" y="272" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#64748B">ANALIZ VE KARAR</text>
+<g id="Menü / Verimlilik ve Kayıp">
+<circle cx="36" cy="303" r="4" fill="#475569"/>
+<text x="52" y="308" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#CBD5E1">Verimlilik ve Kayıp</text>
+</g>
+<g id="Menü / Siparişler">
+<circle cx="36" cy="343" r="4" fill="#475569"/>
+<text x="52" y="348" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#CBD5E1">Siparişler</text>
+<rect x="194" y="334" width="22" height="18" rx="9" fill="#DC2626"/>
+<text x="205" y="347" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+</g>
+<g id="Menü / Senaryo Laboratuvarı">
+<circle cx="36" cy="383" r="4" fill="#475569"/>
+<text x="52" y="388" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#CBD5E1">Senaryo Laboratuvarı</text>
+</g>
+<text x="24" y="422" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#64748B">İŞ VE YÖNETIM</text>
+<g id="Menü / Bakım İş Emirleri">
+<circle cx="36" cy="453" r="4" fill="#475569"/>
+<text x="52" y="458" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#CBD5E1">Bakım İş Emirleri</text>
+</g>
+<g id="Menü / Ayarlar">
+<circle cx="36" cy="493" r="4" fill="#475569"/>
+<text x="52" y="498" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#CBD5E1">Ayarlar</text>
+</g>
+<g id="Kullanıcı">
+<line x1="16" y1="816" x2="224" y2="816" stroke="#1E293B" stroke-width="1"/>
+<circle cx="44" cy="856" r="18" fill="#334155"/>
+<text x="44" y="861" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">F</text>
+<text x="72" y="852" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#fff">Faruk B.</text>
+<text x="72" y="870" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#94A3B8">Vardiya amiri</text>
+</g>
+</g>
+<g id="Üst bar">
+<rect x="240" y="0" width="1200" height="72" rx="0" fill="#fff"/>
+<line x1="240" y1="72" x2="1440" y2="72" stroke="#E2E8F0" stroke-width="1"/>
+<text x="272" y="34" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">Makine Detayı</text>
+<text x="272" y="56" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="400" fill="#64748B">Hat 1 · Montaj  ›  Makine-2</text>
+<g id="Vardiya bilgisi">
+<rect x="1048" y="18" width="200" height="36" rx="8" fill="#F1F5F9"/>
+<circle cx="1066" cy="36" r="5" fill="#16A34A"/>
+<text x="1078" y="41" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">Sabah · 08:00–16:00</text>
+</g>
+<g id="Canlı saat">
+<rect x="1260" y="18" width="148" height="36" rx="8" fill="#F1F5F9"/>
+<text x="1334" y="41" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#0F172A" text-anchor="middle">22 Eki · 11:42</text>
+</g>
+</g>
+<g id="Makine özeti">
+<rect id="Kart" x="272" y="96" width="1136" height="88" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="296" y="132" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">Makine-2</text>
+<g id="Etiket / Darboğaz">
+<rect x="410" y="113" width="73" height="24" rx="12.0" fill="#FEF9C3"/>
+<text x="420" y="129.32" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#CA8A04">Darboğaz</text>
+</g>
+<text x="296" y="160" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="400" fill="#64748B">Hat 1 · Sıra 2 · Önceki: Makine-1 · Sonraki: Makine-3</text>
+<line x1="624" y1="112" x2="624" y2="168" stroke="#E2E8F0" stroke-width="1"/>
+<text x="640" y="130" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#64748B">Son 5 ölçüm medyanı</text>
+<text x="640" y="160" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="700" fill="#CA8A04">8,10 sn</text>
+<line x1="780" y1="112" x2="780" y2="168" stroke="#E2E8F0" stroke-width="1"/>
+<text x="796" y="130" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#64748B">Baseline (σ)</text>
+<text x="796" y="160" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="700" fill="#0F172A">5,20 sn (0,12)</text>
+<line x1="936" y1="112" x2="936" y2="168" stroke="#E2E8F0" stroke-width="1"/>
+<text x="952" y="130" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#64748B">Trend eğimi</text>
+<text x="952" y="160" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="700" fill="#0F172A">+0,29 sn/saat</text>
+<line x1="1092" y1="112" x2="1092" y2="168" stroke="#E2E8F0" stroke-width="1"/>
+<text x="1108" y="130" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#64748B">Kritik eşik (×1,80)</text>
+<text x="1108" y="160" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="700" fill="#DC2626">9,36 sn</text>
+<line x1="1248" y1="112" x2="1248" y2="168" stroke="#E2E8F0" stroke-width="1"/>
+<text x="1264" y="130" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#64748B">Kritik eşiğe kalan</text>
+<text x="1264" y="160" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="700" fill="#DC2626">≈ 4 sa 20 dk</text>
+</g>
+<g id="Çevrim süresi grafiği">
+<rect id="Kart" x="272" y="200" width="740" height="380" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="296" y="234" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#0F172A">Parça işleme süresi</text>
+<text x="296" y="254" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#64748B">Son 4 saat · geçerli ölçümlerin 5'li medyanı</text>
+<rect x="812" y="222" width="56" height="28" rx="6" fill="#DBEAFE"/>
+<text x="840" y="241" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#2563EB" text-anchor="middle">4 sa</text>
+<rect x="872" y="222" width="56" height="28" rx="6" fill="#fff" stroke="#E2E8F0" stroke-width="1"/>
+<text x="900" y="241" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748B" text-anchor="middle">1 gün</text>
+<rect x="932" y="222" width="56" height="28" rx="6" fill="#fff" stroke="#E2E8F0" stroke-width="1"/>
+<text x="960" y="241" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748B" text-anchor="middle">1 hafta</text>
+<line x1="328" y1="540.0" x2="988" y2="540.0" stroke="#F1F5F9" stroke-width="1"/>
+<text x="318" y="544.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="400" fill="#94A3B8" text-anchor="end">4 sn</text>
+<line x1="328" y1="452.0" x2="988" y2="452.0" stroke="#F1F5F9" stroke-width="1"/>
+<text x="318" y="456.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="400" fill="#94A3B8" text-anchor="end">6 sn</text>
+<line x1="328" y1="364.0" x2="988" y2="364.0" stroke="#F1F5F9" stroke-width="1"/>
+<text x="318" y="368.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="400" fill="#94A3B8" text-anchor="end">8 sn</text>
+<line x1="328" y1="276.0" x2="988" y2="276.0" stroke="#F1F5F9" stroke-width="1"/>
+<text x="318" y="280.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="400" fill="#94A3B8" text-anchor="end">10 sn</text>
+<text x="328.0" y="560" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="400" fill="#94A3B8" text-anchor="middle">08:00</text>
+<text x="483.2941176470588" y="560" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="400" fill="#94A3B8" text-anchor="middle">10:00</text>
+<text x="638.5882352941176" y="560" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="400" fill="#94A3B8" text-anchor="middle">12:00</text>
+<text x="793.8823529411766" y="560" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="400" fill="#94A3B8" text-anchor="middle">14:00</text>
+<text x="949.1764705882352" y="560" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="400" fill="#94A3B8" text-anchor="middle">16:00</text>
+<line x1="328" y1="487.2" x2="988" y2="487.2" stroke="#16A34A" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="988" y="481.2" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#16A34A" text-anchor="end">Baseline 5,20</text>
+<line x1="328" y1="452.88" x2="988" y2="452.88" stroke="#FACC15" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="988" y="446.88" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#CA8A04" text-anchor="end">Uyarı eşiği 5,98 (+%15)</text>
+<line x1="328" y1="304.16" x2="988" y2="304.16" stroke="#DC2626" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="988" y="298.16" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#DC2626" text-anchor="end">Kritik 9,36 (×1,80)</text>
+<polyline id="Ölçüm medyanı" points="328.0,488.6 332.7,490.0 337.3,486.0 342.0,490.6 346.6,486.9 351.3,488.3 356.0,490.7 360.6,487.1 365.3,490.9 369.9,487.7 374.6,490.6 379.2,490.4 383.9,487.8 388.6,484.6 393.2,490.2 397.9,489.4 402.5,486.2 407.2,482.7 411.9,482.8 416.5,481.4 421.2,474.0 425.8,478.5 430.5,469.2 435.2,470.9 439.8,469.2 444.5,466.6 449.1,462.3 453.8,455.4 458.4,457.6 463.1,451.6 467.8,448.3 472.4,447.6 477.1,443.3 481.7,444.3 486.4,441.5 491.1,437.5 495.7,431.0 500.4,430.1 505.0,428.2 509.7,423.2 514.4,421.4 519.0,419.8 523.7,413.0 528.3,411.0 533.0,411.7 537.6,406.3 542.3,403.8 547.0,398.2 551.6,396.5 556.3,397.2 560.9,388.9 565.6,392.9 570.3,387.7 574.9,382.1 579.6,384.1 584.2,378.6 588.9,379.3 593.6,371.5 598.2,367.9 602.9,366.6 607.5,361.4 612.2,363.0" fill="none" stroke="#2563EB" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline id="Trend projeksiyonu" points="615.3,359.6 951.5,304.2" fill="none" stroke="#DC2626" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="5 5"/>
+<circle cx="951.5058823529413" cy="304.16" r="5" fill="#fff" stroke="#DC2626" stroke-width="2"/>
+<text x="943.5058823529413" y="324.16" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#DC2626" text-anchor="end">≈ 16:02</text>
+<line x1="615.2941176470588" y1="276" x2="615.2941176470588" y2="540" stroke="#64748B" stroke-width="1" stroke-dasharray="2 3"/>
+<text x="621.2941176470588" y="288" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#64748B">Şimdi 11:42</text>
+<line x1="462.3294117647059" y1="316" x2="462.3294117647059" y2="540" stroke="#FACC15" stroke-width="1"/>
+<rect x="416.3294117647059" y="510" width="92" height="20" rx="4" fill="#FEF9C3"/>
+<text x="462.3294117647059" y="524" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#CA8A04" text-anchor="middle">Sarı · 09:44</text>
+<g id="Reddedilen ölçüm">
+<circle cx="529.8823529411765" cy="287.0" r="5" fill="#fff" stroke="#9333EA" stroke-width="2"/>
+<text x="517.8823529411765" y="291.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#9333EA" text-anchor="end">15,02 sn reddedildi (sıçrama)</text>
+</g>
+</g>
+<g id="Neden sarı paneli">
+<rect id="Kart" x="1028" y="200" width="380" height="380" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="1052" y="234" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#0F172A">Neden sarı?</text>
+<text x="1384" y="234" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#94A3B8" text-anchor="end">Uyarı #318</text>
+<text x="1052" y="264" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#64748B">Uygulanan kural</text>
+<text x="1052" y="284" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#0F172A">3 ardışık ölçüm &gt; baseline × 1,15</text>
+<text x="1052" y="314" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#64748B">Son 5 ölçüm medyanı</text>
+<text x="1052" y="334" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#0F172A">8,10 sn  (baseline +%56)</text>
+<text x="1052" y="364" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#64748B">Trend (doğrusal regresyon)</text>
+<text x="1052" y="384" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#0F172A">+0,29 sn/saat, yukarı yönlü</text>
+<text x="1052" y="414" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#64748B">Kalan süre hesabı</text>
+<text x="1052" y="434" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#0F172A">(9,36 − 8,10) ÷ 0,29 ≈ 4 sa 20 dk</text>
+<text x="1052" y="468" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#64748B">Güven skoru</text>
+<text x="1384" y="468" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#16A34A" text-anchor="end">92 / 100</text>
+<rect x="1052" y="478" width="332" height="8" rx="4" fill="#E2E8F0"/>
+<rect x="1052" y="478" width="305.44" height="8" rx="4" fill="#16A34A"/>
+<text x="1052" y="506" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#94A3B8">Yüksek güven → normal akış, sensör kontrolü gerekmez</text>
+<g id="Buton / Üstlendim">
+<rect x="1052" y="516" width="150" height="40" rx="8" fill="#2563EB"/>
+<text x="1127.0" y="541.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#fff" text-anchor="middle">Üstlendim</text>
+</g>
+<g id="Buton / Senaryo laboratuvarı">
+<rect x="1214" y="516" width="170" height="40" rx="8" fill="#fff" stroke="#E2E8F0" stroke-width="1"/>
+<text x="1299.0" y="541.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#0F172A" text-anchor="middle">Senaryo laboratuvarı</text>
+</g>
+</g>
+<g id="Sinyal doğrulama kontrolleri">
+<rect id="Kart" x="272" y="596" width="556" height="276" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="296" y="630" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#0F172A">Sinyal doğrulama</text>
+<text x="804" y="630" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#16A34A" text-anchor="end">5 / 5 kontrol geçti</text>
+<g id="Kontrol / Sıra no. ve tampon">
+<circle cx="308" cy="668" r="10" fill="#DCFCE7"/>
+<polyline points="303.0,668.0 307.0,672.0 313.0,664.0" fill="none" stroke="#16A34A" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="328" y="666" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#0F172A">Sıra no. ve tampon</text>
+<text x="328" y="684" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#64748B">Kayıp paket yok · sıra kesintisiz</text>
+<text x="804" y="674" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#16A34A" text-anchor="end">+20</text>
+</g>
+<g id="Kontrol / Fiziksel makullük">
+<circle cx="308" cy="709" r="10" fill="#DCFCE7"/>
+<polyline points="303.0,709.0 307.0,713.0 313.0,705.0" fill="none" stroke="#16A34A" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="328" y="707" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#0F172A">Fiziksel makullük</text>
+<text x="328" y="725" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#64748B">Tüm değerler 1–300 sn aralığında</text>
+<text x="804" y="715" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#16A34A" text-anchor="end">+20</text>
+</g>
+<g id="Kontrol / Tek seferlik sıçrama">
+<circle cx="308" cy="750" r="10" fill="#DCFCE7"/>
+<polyline points="303.0,750.0 307.0,754.0 313.0,746.0" fill="none" stroke="#16A34A" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="328" y="748" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#0F172A">Tek seferlik sıçrama</text>
+<text x="328" y="766" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#64748B">1 ölçüm reddedildi, karar medyanla</text>
+<text x="804" y="756" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#16A34A" text-anchor="end">+18</text>
+</g>
+<g id="Kontrol / Donmuş sensör">
+<circle cx="308" cy="791" r="10" fill="#DCFCE7"/>
+<polyline points="303.0,791.0 307.0,795.0 313.0,787.0" fill="none" stroke="#16A34A" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="328" y="789" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#0F172A">Donmuş sensör</text>
+<text x="328" y="807" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#64748B">σ = 0,11 · tekrar eden değer yok</text>
+<text x="804" y="797" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#16A34A" text-anchor="end">+17</text>
+</g>
+<g id="Kontrol / Hat çapraz doğrulama">
+<circle cx="308" cy="832" r="10" fill="#DCFCE7"/>
+<polyline points="303.0,832.0 307.0,836.0 313.0,828.0" fill="none" stroke="#16A34A" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="328" y="830" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#0F172A">Hat çapraz doğrulama</text>
+<text x="328" y="848" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#64748B">Makine-3 parça arası 5,3 → 8,0 sn açıldı</text>
+<text x="804" y="838" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#16A34A" text-anchor="end">+17</text>
+</g>
+</g>
+<g id="Son ölçümler tablosu">
+<rect id="Kart" x="844" y="596" width="564" height="276" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="868" y="630" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#0F172A">Son ölçümler</text>
+<text x="1384" y="630" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#94A3B8" text-anchor="end">Her 2 sn</text>
+<rect x="856" y="648" width="540" height="30" rx="6" fill="#F1F5F9"/>
+<text x="868" y="668" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748B">Sıra no.</text>
+<text x="954" y="668" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748B">Cihaz zamanı</text>
+<text x="1084" y="668" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748B">Süre</text>
+<text x="1164" y="668" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748B">Güven</text>
+<text x="1244" y="668" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748B">Durum</text>
+<g id="Satır / 48211">
+<text x="868" y="700" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">48211</text>
+<text x="954" y="700" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">11:41:58.204</text>
+<text x="1084" y="700" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">8,12</text>
+<text x="1164" y="700" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">93</text>
+<g id="Etiket / Geçerli">
+<rect x="1244" y="685" width="59" height="20" rx="10.0" fill="#DCFCE7"/>
+<text x="1252" y="698.96" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#16A34A">Geçerli</text>
+</g>
+</g>
+<line x1="868" y1="712" x2="1384" y2="712" stroke="#F1F5F9" stroke-width="1"/>
+<g id="Satır / 48210">
+<text x="868" y="728" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">48210</text>
+<text x="954" y="728" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">11:41:56.198</text>
+<text x="1084" y="728" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">8,09</text>
+<text x="1164" y="728" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">92</text>
+<g id="Etiket / Geçerli">
+<rect x="1244" y="713" width="59" height="20" rx="10.0" fill="#DCFCE7"/>
+<text x="1252" y="726.96" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#16A34A">Geçerli</text>
+</g>
+</g>
+<line x1="868" y1="740" x2="1384" y2="740" stroke="#F1F5F9" stroke-width="1"/>
+<g id="Satır / 48209">
+<text x="868" y="756" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">48209</text>
+<text x="954" y="756" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">11:41:54.201</text>
+<text x="1084" y="756" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#9333EA">15,02</text>
+<text x="1164" y="756" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#9333EA">31</text>
+<g id="Etiket / Reddedildi · sıçrama">
+<rect x="1244" y="741" width="139" height="20" rx="10.0" fill="#F3E8FF"/>
+<text x="1252" y="754.96" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#9333EA">Reddedildi · sıçrama</text>
+</g>
+</g>
+<line x1="868" y1="768" x2="1384" y2="768" stroke="#F1F5F9" stroke-width="1"/>
+<g id="Satır / 48208">
+<text x="868" y="784" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">48208</text>
+<text x="954" y="784" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">11:41:52.207</text>
+<text x="1084" y="784" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">8,07</text>
+<text x="1164" y="784" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">92</text>
+<g id="Etiket / Geçerli">
+<rect x="1244" y="769" width="59" height="20" rx="10.0" fill="#DCFCE7"/>
+<text x="1252" y="782.96" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#16A34A">Geçerli</text>
+</g>
+</g>
+<line x1="868" y1="796" x2="1384" y2="796" stroke="#F1F5F9" stroke-width="1"/>
+<g id="Satır / 48207">
+<text x="868" y="812" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">48207</text>
+<text x="954" y="812" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">11:41:50.199</text>
+<text x="1084" y="812" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">8,11</text>
+<text x="1164" y="812" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">93</text>
+<g id="Etiket / Geçerli">
+<rect x="1244" y="797" width="59" height="20" rx="10.0" fill="#DCFCE7"/>
+<text x="1252" y="810.96" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#16A34A">Geçerli</text>
+</g>
+</g>
+<line x1="868" y1="824" x2="1384" y2="824" stroke="#F1F5F9" stroke-width="1"/>
+<g id="Satır / 48206">
+<text x="868" y="840" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">48206</text>
+<text x="954" y="840" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">11:41:48.203</text>
+<text x="1084" y="840" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">8,05</text>
+<text x="1164" y="840" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#0F172A">92</text>
+<g id="Etiket / Geçerli">
+<rect x="1244" y="825" width="59" height="20" rx="10.0" fill="#DCFCE7"/>
+<text x="1252" y="838.96" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#16A34A">Geçerli</text>
+</g>
+</g>
+<line x1="868" y1="852" x2="1384" y2="852" stroke="#F1F5F9" stroke-width="1"/>
+</g><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTozM2QzZTNlOS1lOTc4LTRiNTMtOGI4Yy1jOTQyOTA0ZjMwMjIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaKG3SnBfQexfBQTCXIhmf2IAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoyYjRmOGM3Zi1mYTc4LTRhY2UtOGFmYS1iZjAyMDg5ZjhkYzRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoUBXfNXEQD177UoZWW9mc7gAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggEuIUQFhxMzYbgov5/WM2d4mAUcP3EB6F+GtJz+CoPP2kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaD7c+yWJcGgUV5s81Z1/WykAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIH83ay2i/URFEx0E+oA9E/Zs/YAIWves2BMdECgR1VJOZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GWW3Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjMzZDNlM2U5LWU5NzgtNGI1My04YjhjLWM5NDI5MDRmMzAyMi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjMxZmFhODcwLTg5ZGYtNDQ0My1hMTM4LTBjYWM3YzVjY2E3Y3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAS4hRAWHEzNhuCi/n9YzZ3iYBRw/cQHoX4a0nP4Kg8/aJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgggc4/B99ZXVI4HES+FcoU8dpxpnZ4kNsnLNal4RnNH2GiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggZzjh7qDDzz43NgTLiqdcJFot7SzE7E/v/wNh970X+4x0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQAeGfBq4sxT0ilRWeO8Q0m1H4aS94/D0MqgbLNFTq3zXevfBZFUHjzOfzlriJk7yjcOO30BNJyAbwhA3Hf6NV7Y=</c2pa:manifest></metadata></svg>
